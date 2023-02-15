@@ -2,7 +2,7 @@
 **Portfolio for Human Language Technologies @ UTD**
 
 ### Assignment 0 ... Thoughts & Observations on NLP
-This [assignment](https://github.com/nina-rao/HLT/blob/main/Overview%20of%20NLP.pdf) details NLP, various NLP approaches, and a reflection on my interest in the subject
+This [assignment](https://github.com/nina-rao/HLT/blob/main/Overview%20of%20NLP.pdf) details NLP, various NLP approaches, and a reflection on my interest in the subject.
 
 ### Assignment 1 ... Text Processing with Python
 This [program](https://github.com/nina-rao/HLT/blob/main/asgn1.py) takes in an employee file, cleans the data, and outputs the data. To run it, go to your terminal and navigate to the directory where the .py file is located. Then type python [name of py file] [relative path of data file] 
