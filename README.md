@@ -16,4 +16,4 @@ This assignment was an introduction to many concepts for me such as making a pro
 This [program](https://github.com/nina-rao/HLT/blob/main/asgn2.py) tokenizes the first chapter of an anatomy textbook and does some preprocessing using NLTK. It produces a dictionary of nouns and their counts in order to play a word guessing game with the 50 most common nouns in the text. 
 
 ### Assignment 3 ... WordNet
-This [notebook](https://github.com/nina-rao/HLT/blob/main/WordNet%20.ipynb) is an exploration into the organization of words in WordNet, word forms, word similarity, word sentiment, and collocations.
+This [notebook](https://github.com/nina-rao/HLT/blob/main/asgn3.ipynb) is an exploration into the organization of words in WordNet, word forms, word similarity, word sentiment, and collocations.
