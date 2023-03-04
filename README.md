@@ -17,3 +17,7 @@ This [program](https://github.com/nina-rao/HLT/blob/main/asgn2.py) tokenizes the
 
 ### Assignment 3 ... WordNet
 This [notebook](https://github.com/nina-rao/HLT/blob/main/asgn3.ipynb) is an exploration into the organization of words in WordNet, word forms, word similarity, word sentiment, and collocations.
+
+
+### Assignment 5 ... N-Grams
+This assignment consists of 2 programs. The [first program](https://github.com/nina-rao/HLT/blob/main/ngram1.py) reads in 3 sets of training data in English, French, and Italian and constructs seperate language models for each of them. These language models are unigram and bigram dictionaries. The [second program](https://github.com/nina-rao/HLT/blob/main/ngram2.py) uses these dictionaries to construct a probabilistic model that uses LaPlace smoothing to compute the probability of a given text being in the language. Click [here](https://github.com/nina-rao/HLT/blob/main/N-grams%20Narrative.pdf) to read more about N-Grams. 
