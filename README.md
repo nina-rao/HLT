@@ -1,10 +1,10 @@
 # CS 4395: Human Language Technologies :sparkling_heart:
 **Portfolio for Human Language Technologies @ UTD**
 
-### Assignment 0 ... Thoughts & Observations on NLP
+### Thoughts & Observations on NLP
 This [assignment](https://github.com/nina-rao/HLT/blob/main/Overview%20of%20NLP.pdf) details NLP, various NLP approaches, and a reflection on my interest in the subject.
 
-### Assignment 1 ... Text Processing with Python
+### Text Processing with Python
 This [program](https://github.com/nina-rao/HLT/blob/main/asgn1.py) takes in an employee file, cleans the data, and outputs the data. To run it, go to your terminal and navigate to the directory where the .py file is located. Then type python [name of py file] [relative path of data file] 
 e.g. python asgn1.py data/data.csv
 
@@ -12,12 +12,15 @@ Compared to other programming languages, text processing with Python is a fairly
 
 This assignment was an introduction to many concepts for me such as making a program universally compilable regardless of OS, pickling files, working with DataFrames, and Python structures in general. I have only used Python for the odd class assignment or small personal project and since I use it so infrequently I had to familiarize myself with much of the syntax and data structures. The utilization of RegEx was a refresher for me, and trying to match the phone numbers was a tedious puzzle. 
 
-### Assignment 2 ... NLTK + Word Guessing Game
+### NLTK + Word Guessing Game
 This [program](https://github.com/nina-rao/HLT/blob/main/asgn2.py) tokenizes the first chapter of an anatomy textbook and does some preprocessing using NLTK. It produces a dictionary of nouns and their counts in order to play a word guessing game with the 50 most common nouns in the text. 
 
-### Assignment 3 ... WordNet
+### WordNet
 This [notebook](https://github.com/nina-rao/HLT/blob/main/asgn3.ipynb) is an exploration into the organization of words in WordNet, word forms, word similarity, word sentiment, and collocations.
 
 
-### Assignment 5 ... N-Grams
+### N-Grams
 This assignment consists of 2 programs. The [first program](https://github.com/nina-rao/HLT/blob/main/ngram1.py) reads in 3 sets of training data in English, French, and Italian and constructs seperate language models for each of them. These language models are unigram and bigram dictionaries. The [second program](https://github.com/nina-rao/HLT/blob/main/ngram2.py) uses these dictionaries to construct a probabilistic model that uses LaPlace smoothing to compute the probability of a given text being in the language. Click [here](https://github.com/nina-rao/HLT/blob/main/N-grams%20Narrative.pdf) to read more about N-Grams. 
+
+### Sentence Parsing
+This [assignment](https://github.com/nina-rao/HLT/blob/main/Sentence%20Parsing.docx) compares 3 different parsing methods: PSG tree, Dependency parse, and SRL parse. Using an example sentence, I've illustrated each of these parses and how they provide a deeper look into the syntax and semantics of text.
