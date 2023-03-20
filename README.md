@@ -24,3 +24,6 @@ This assignment consists of 2 programs. The [first program](https://github.com/n
 
 ### Sentence Parsing
 This [assignment](https://github.com/nina-rao/HLT/blob/main/Sentence%20Parsing.docx) compares 3 different parsing methods: PSG tree, Dependency parse, and SRL parse. Using an example sentence, I've illustrated each of these parses and how they provide a deeper look into the syntax and semantics of text.
+
+### Web Crawler
+This [project]() obtains relevant links from a starting URL through a web-crawling function. These links are used to build a knowledge base.
