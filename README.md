@@ -30,3 +30,6 @@ This [project](https://github.com/nina-rao/HLT/blob/main/webCrawler.py) obtains 
 
 ### Text Classification
 This [assignment](https://github.com/nina-rao/HLT/blob/main/TextClassification.pdf) explores using sklearn to run Naïve Bayes, Logistic Regression, Neural Networks for text classification on a dataset.
+
+### ACL Paper Summary
+This is a [summary](https://github.com/nina-rao/HLT/blob/main/ACL%20Paper%20Summary.pdf) of the paper "Improving the Generalizability of Depression Detection by Leveraging Clinical Questionnaires" (Nguyen et al., ACL 2022). 
