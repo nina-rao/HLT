@@ -27,3 +27,6 @@ This [assignment](https://github.com/nina-rao/HLT/blob/main/Sentence%20Parsing.d
 
 ### Web Crawler
 This [project](https://github.com/nina-rao/HLT/blob/main/webCrawler.py) obtains relevant links from a starting URL through a web-crawling function. These links are used to build a knowledge base.
+
+### Text Classification
+This [assignment](https://github.com/nina-rao/HLT/blob/main/TextClassification.pdf) explores using sklearn to run Naïve Bayes, Logistic Regression, Neural Networks for text classification on a dataset.
