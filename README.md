@@ -36,3 +36,6 @@ This is a [summary](https://github.com/nina-rao/HLT/blob/main/ACL%20Paper%20Summ
 
 ### Chatbot Code & Report
 This is a [chatbot](https://github.com/nina-rao/HLT/blob/main/ChatPoet.ipynb) I wrote that uses poetry to generate responses. It was written in Google Colab but there is also a [Python file](https://github.com/nina-rao/HLT/blob/main/chatpoet.py). The [report](https://github.com/nina-rao/HLT/blob/main/ChatbotReportNinaRao.pdf) contains the system description, sample dialogs, and evaluation.
+
+### Text Classification 2
+This [assignment](https://github.com/nina-rao/HLT/blob/main/TextClassification2.pdf) is text classification of a multi-class dataset using a sequential model, RNN, and different Embedding techniques.
