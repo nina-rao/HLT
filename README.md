@@ -1,4 +1,4 @@
-# CS 4395: Human Language Technologies :sparkling_heart:
+# CS 4395: Human Language Technologies <3
 **Portfolio for Human Language Technologies @ UTD**
 
 ### Thoughts & Observations on NLP
@@ -42,3 +42,5 @@ This [assignment](https://github.com/nina-rao/HLT/blob/main/TextClassification2.
 
 ### Summary
 Having neared the completion of this course, I can confidently say that my understanding of Natural Language Processing has improved. The solutions to many problems are shrouded in unstructured data in the form of text, this class has taught me to analyze these problems and begin to see a path towards the solution. I know what kind of preprocessing a text dataset needs, whether syntax parsing or POS or sentiment analysis is necessary, how to create numerical representations of this text, as well as begin to build language models to achieve a task. I am still enthusiastic about NLP and how it can be used to change the way we interact with machines. With a better understanding of how to extract insights from text data, I am hopeful for the advancement of this field of research. Though there are many applications of NLP with business value, I've found that it is equally as satisfying and delightful to use NLP to play with language in casual, experimental ways. Making my chatbot revealed to me how absurd and amorphous language is, which is a revelation shared in both the study of human language and technology. In the future, I plan to keep an eye out for developments and product rollouts in the NLP sphere of research as corporations are starting to invest massively in AI and NLP. As someone keen on reading and analysis I would definitely be interested in a career that allowed me to apply what I've learned this semester. 
+
+[SKILLS](https://github.com/nina-rao/HLT/blob/main/skills.html)
